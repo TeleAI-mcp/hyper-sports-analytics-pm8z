@@ -1,2 +1,3 @@
-# hyper-sports-analytics-pm8z
-Automated issue comment bot repository
+# Hyper Sports Analytics Pm8Z
+
+Automated issue comment bot repository.
